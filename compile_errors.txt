@@ -1,0 +1,31 @@
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\DashboardFrame.java:215: error: constructor StudentTimetablePanel in class StudentTimetablePanel cannot be applied to given types;
+            contentPanel.add(new StudentTimetablePanel(), "Timetable");
+                             ^
+  required: User
+  found:    no arguments
+  reason: actual and formal argument lists differ in length
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:218: error: package com.github.lgooddatepicker.components does not exist
+        com.github.lgooddatepicker.components.DatePickerSettings dateSettings = new com.github.lgooddatepicker.components.DatePickerSettings();
+                                             ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:218: error: package com.github.lgooddatepicker.components does not exist
+        com.github.lgooddatepicker.components.DatePickerSettings dateSettings = new com.github.lgooddatepicker.components.DatePickerSettings();
+                                                                                                                         ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:224: error: package com.github.lgooddatepicker.components.DatePickerSettings does not exist
+        dateSettings.setColor(com.github.lgooddatepicker.components.DatePickerSettings.DateArea.CalendarBackgroundNormalDates, Color.WHITE);
+                                                                                      ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:225: error: package com.github.lgooddatepicker.components.DatePickerSettings does not exist
+        dateSettings.setColor(com.github.lgooddatepicker.components.DatePickerSettings.DateArea.BackgroundOverallCalendarPanel, Color.WHITE);
+                                                                                      ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:226: error: package com.github.lgooddatepicker.components.DatePickerSettings does not exist
+        dateSettings.setColor(com.github.lgooddatepicker.components.DatePickerSettings.DateArea.BackgroundMonthAndYearNavigationButtons, new Color(245, 247, 250));
+                                                                                      ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:227: error: package com.github.lgooddatepicker.components.DatePickerSettings does not exist
+        dateSettings.setColor(com.github.lgooddatepicker.components.DatePickerSettings.DateArea.TextMonthAndYearNavigationButtons, new Color(20, 61, 89));
+                                                                                      ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:229: error: package com.github.lgooddatepicker.components does not exist
+        com.github.lgooddatepicker.components.DatePicker datePicker = new com.github.lgooddatepicker.components.DatePicker(dateSettings);
+                                             ^
+c:\Users\Vimukthi\Desktop\AAA\FMS-GROUP_M\src\main\java\com\faculty\view\dashboard\LecturerLeavePanel.java:229: error: package com.github.lgooddatepicker.components does not exist
+        com.github.lgooddatepicker.components.DatePicker datePicker = new com.github.lgooddatepicker.components.DatePicker(dateSettings);
+                                                                                                               ^
+9 errors
